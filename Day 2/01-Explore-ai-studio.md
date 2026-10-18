@@ -49,7 +49,7 @@ Microsoft Foundry uses projects to organize models, resources, data, and other a
 
     When it is ready, the project home page will open.
 
-    ![Screenshot of the Foundry project home page.](../media/foundry-portal-home.png)
+   
 
 ## Deploy and test a model
 
@@ -61,16 +61,14 @@ At the core of any generative AI project, there's at least one generative AI mod
 
     Model cards provide information about models to help you understand their capabilities and limitations, and determine if they are suitable for your requirements.
 
-    ![Screenshot of the gpt-5.2 model card.](../media/gpt5.2-details.png)
-
+   
 1. Select **Deploy** with the default settings to create a deployment of the model.
 
     Model deployments enable you to work with a model in your project.
 
     When the model has been deployed, the model playground will open automatically so you can test your model:
 
-    ![Screenshot of the Foundry project model playground.](../media/ai-foundry-model-playground.png)
-
+   
 1. In the **Instructions** box, enter the following instructions:
 
     ```text
@@ -87,8 +85,7 @@ At the core of any generative AI project, there's at least one generative AI mod
 
     The management center is where you can view and administer your projects and their parent resources.
 
-    ![Screenshot of the Manage tab in Foundry portal.](../media/ai-foundry-manage.png)
-
+   
     - The *resource* level relates to the **Foundry** resource that was created in Azure to support your project. This resource includes connections to Foundry Services and models; and provides a central place to manage user access to AI development projects.
     - The *project* level relates to your individual project, where you can add and manage project-specific resources. A resource can support multiple projects (the first one created is the resource's *default* project).
 
@@ -119,22 +116,19 @@ As a developer, you may spend some time working in the Foundry portal; but you'r
 
 1. After installing the extension, select the **Foundry Toolkit** page in the left navigation bar; and wait for it to load.
 
-    ![Screenshot of the Foundry Toolkit Visual Studio Code extension.](../media/foundry-vs-extension.png)
-
+   
 1. In the Foundry Toolkit pane, expand **Microsoft Foundry Resources** and set the default project by connecting to Azure (signing in with your credentials) and selecting the Foundry project you created previously.
 
 1. After setting the default project, expand the project, expand **Models**, and select the **gpt-5.2** model you deployed previously.
 
     You can view the model deployment details here.
 
-    ![Screenshot of a model in the  Foundry Toolkit Visual Studio Code extension.](../media/vscode-extension-model.png)
-
+   
 1. In the Foundry Toolkit pane, in the **Developer Tools** section, expand **Build** and select **Model playground**. Then select the **gpt-5.2** model (if it is not already selected).
 
     An interactive playground in which you can test the model is opened in Visual Studio Code.
 
-    ![Screenshot of the model playground in Visual Studio Code.](../media/vscode-model-playground.png)
-
+   
 ## Summary
 
 In this exercise, you've created a Microsoft Foundry and explored it in the Foundry portal. You've also explored the  Foundry Toolkit extension in Visual Studio Code, which provides a convenient way for developers to work with Foundry projects and their assets.
