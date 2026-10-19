@@ -17,10 +17,7 @@ Across the labs you follow the launch through one working day. First the enginee
 | --- | --- | --- | --- | --- |
 | 1 | [Launch Coordination](labs/lab-1-launch-coordination.md) | Turn messy, partly unresolved engineering notes into an approved, region-ready dealer brief | Structured outputs, ReAct-style tool calling (Human-as-API), multi-agent chaining with @mention, turning agent output into Word and Excel files | ~105 min |
 | 2 | [Governance Layer](labs/lab-2-governance-layer.md) | Put a Brazil dealer email through brand and compliance review before it goes out | Separation of concerns, agents that recommend instead of approve, cross-border data risk (LGPD / GDPR), a two-step human sign-off | — |
-| 3 | Field Issue Investigation | Investigate a field issue reported by pilot customers | *Coming soon* | — |
-| 4 | Incident Response | Run the full incident response and make the final leadership call | *Coming soon* | — |
 
-Do the labs in order: Lab 2 reuses the @mention chaining pattern from Lab 1.
 
 ## Key ideas you'll take away
 
