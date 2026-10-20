@@ -50,11 +50,6 @@ Here's the whole day, so you know where each lab sits in the arc:
 
 - **Today, Lab 1:** the engineering spec has just landed - messy and partially unresolved. You'll turn it into dealer-ready material for two pilot regions.
 
-- **Lab 2 (later):** that dealer material has to clear a formal compliance review before anything can go out.
-
-- **Lab 3 (later):** partway through the day, pilot customers start reporting a field issue. You'll investigate it.
-
-- **Lab 4 (later):** you'll run the full incident response and make a final leadership call on how AGCO responds.
 
 #### 3.2 Today's slice - what Lab 1 actually solves
 
