@@ -1,0 +1,10 @@
+SUBJECT:
+[Fault] Generator failed to start – Lakeside Medical Centre
+
+BODY:
+Hello Northwind team,
+
+During this morning's power cut our standby generator (asset AST-2001) did not start. The panel shows G11. The hospital ran on UPS for 6 minutes until mains power returned. We need someone urgently.
+
+Contact: Dr. Meera Kulkarni, Facilities Lead, +91 98000 11111
+Lakeside Medical Centre, Pune

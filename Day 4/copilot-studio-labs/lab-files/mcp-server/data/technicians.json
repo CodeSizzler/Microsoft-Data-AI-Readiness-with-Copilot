@@ -1,0 +1,7 @@
+[
+  {"tech_id": "T-01", "name": "Arjun Mehta", "city": "Pune", "skills": ["HX-200", "PG-50"], "available": true, "next_free_slot": "Today 14:00"},
+  {"tech_id": "T-02", "name": "Sara Al Mansoori", "city": "Dubai", "skills": ["HX-200", "CX-10"], "available": false, "next_free_slot": "Tomorrow 09:00"},
+  {"tech_id": "T-03", "name": "Faisal Al Qahtani", "city": "Riyadh", "skills": ["PG-50"], "available": true, "next_free_slot": "Today 11:30"},
+  {"tech_id": "T-04", "name": "Divya Raman", "city": "Chennai", "skills": ["CX-10", "HX-200"], "available": true, "next_free_slot": "Today 16:00"},
+  {"tech_id": "T-05", "name": "Kiran Patil", "city": "Pune", "skills": ["CX-10"], "available": true, "next_free_slot": "Today 10:00"}
+]
