@@ -9,7 +9,7 @@ No prior experience with Copilot, Agent Builder or AI agents is needed. Every cl
 
 AGCO is preparing the pilot launch of **Fendt SmartGuide**, a new autonomous steering-assist feature for the Fendt 900 Vario series. It rolls out first to Brazil, India, Germany and the United States.
 
-Across the labs you follow the launch through one working day. First the engineering spec arrives, then the dealer material goes through compliance review. Later a field issue appears, and the day ends with a leadership decision on how to respond.
+Across the labs you follow the launch. First the engineering spec arrives, then the dealer material goes through compliance review. 
 
 ## Labs
 
