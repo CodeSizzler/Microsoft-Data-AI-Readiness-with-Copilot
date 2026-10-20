@@ -12,12 +12,6 @@ Along the way, you'll hit three patterns from the course outline in hands-on for
 
 - Write agent instructions that refuse to guess when data is missing or conflicting
 
-- Chain two agents together in one thread with @mention
-
-- Simulate a "function call" using a Human-as-API pattern
-
-- Turn approved agent output into a real Word file and a real Excel file
-
 **Duration:** approximately 105 minutes, including the closing challenge.
 
 **Tools used in this lab:** Microsoft 365 Copilot Chat, Agent Builder, OneDrive, Word, Excel.
