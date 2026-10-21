@@ -1,0 +1,7 @@
+UnitId,UnitName,ShortName,Area,DesignCapacity_kbbl_per_day
+U100,Crude Distillation Unit,CDU,Crude processing,500
+U200,Distillate Hydrocracker 1,DHC-1,Conversion,95
+U300,Distillate Hydrocracker 2,DHC-2,Conversion,95
+U400,Fluid Catalytic Cracker,FCC,Conversion,80
+U500,Delayed Coker,COKER,Conversion,100
+U600,Aromatics Complex,AROM,Petrochemicals,60
