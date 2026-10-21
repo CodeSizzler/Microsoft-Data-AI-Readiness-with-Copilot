@@ -1,4 +1,4 @@
-# Day 1 Lab: Azure AI Foundation
+# Day 3 Lab: Azure AI Foundation
 ## Exploring Microsoft Foundry and Running Your First Task
 
 **Module covered:** The Azure AI landscape, foundation models and the model catalog, tokens / context / embeddings / inference, grounding and RAG, Copilot / Copilot Studio / custom AI, enterprise use cases.
