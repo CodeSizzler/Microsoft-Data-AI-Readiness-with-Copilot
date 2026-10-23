@@ -1,0 +1,31 @@
+EquipmentId,UnitId,EquipmentType,Criticality,InstallYear
+CDU-K101,U100,Compressor,A,2020
+CDU-V102,U100,Control valve,C,2014
+CDU-K103,U100,Compressor,B,2014
+CDU-V104,U100,Control valve,C,2016
+CDU-H105,U100,Fired heater,A,2020
+DHC1-K101,U200,Compressor,A,2024
+DHC1-K102,U200,Compressor,A,2016
+DHC1-K103,U200,Compressor,C,2021
+DHC1-H104,U200,Fired heater,B,2017
+DHC1-V105,U200,Control valve,A,2014
+DHC2-E101,U300,Heat exchanger,C,2022
+DHC2-P102,U300,Centrifugal pump,C,2014
+DHC2-P103,U300,Centrifugal pump,B,2023
+DHC2-V104,U300,Control valve,B,2019
+DHC2-H105,U300,Fired heater,B,2017
+FCC-P101,U400,Centrifugal pump,B,2017
+FCC-V102,U400,Control valve,B,2020
+FCC-V103,U400,Control valve,C,2016
+FCC-P104,U400,Centrifugal pump,A,2015
+FCC-K105,U400,Compressor,C,2022
+COKER-P101,U500,Centrifugal pump,A,2020
+COKER-K102,U500,Compressor,B,2023
+COKER-P103,U500,Centrifugal pump,C,2019
+COKER-P104,U500,Centrifugal pump,B,2014
+COKER-H105,U500,Fired heater,B,2023
+AROM-P101,U600,Centrifugal pump,A,2019
+AROM-P102,U600,Centrifugal pump,A,2015
+AROM-K103,U600,Compressor,B,2019
+AROM-V104,U600,Control valve,B,2019
+AROM-V105,U600,Control valve,B,2023
