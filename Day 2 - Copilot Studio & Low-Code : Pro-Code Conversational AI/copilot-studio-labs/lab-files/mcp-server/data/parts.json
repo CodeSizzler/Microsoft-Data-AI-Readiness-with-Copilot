@@ -1,0 +1,10 @@
+[
+  {"part_no": "HX-FAN-07", "name": "Condenser fan motor", "fits": ["HX-200"], "price_usd": 420, "stock": {"Pune": 2, "Dubai": 0, "Riyadh": 1, "Chennai": 1}},
+  {"part_no": "HX-CAP-35", "name": "Run capacitor 35uF", "fits": ["HX-200"], "price_usd": 38, "stock": {"Pune": 12, "Dubai": 6, "Riyadh": 4, "Chennai": 9}},
+  {"part_no": "HX-PS-HP", "name": "High-pressure switch", "fits": ["HX-200"], "price_usd": 95, "stock": {"Pune": 0, "Dubai": 3, "Riyadh": 0, "Chennai": 0}},
+  {"part_no": "PG-BAT-12", "name": "Starter battery 12V", "fits": ["PG-50"], "price_usd": 180, "stock": {"Pune": 3, "Dubai": 2, "Riyadh": 5, "Chennai": 1}},
+  {"part_no": "PG-FLT-F", "name": "Fuel filter kit", "fits": ["PG-50"], "price_usd": 65, "stock": {"Pune": 8, "Dubai": 4, "Riyadh": 6, "Chennai": 2}},
+  {"part_no": "PG-AVR-3", "name": "Automatic voltage regulator", "fits": ["PG-50"], "price_usd": 610, "stock": {"Pune": 0, "Dubai": 1, "Riyadh": 0, "Chennai": 0}},
+  {"part_no": "CX-GSK-D", "name": "Door gasket", "fits": ["CX-10"], "price_usd": 120, "stock": {"Pune": 2, "Dubai": 1, "Riyadh": 0, "Chennai": 4}},
+  {"part_no": "CX-TH-02", "name": "Digital thermostat controller", "fits": ["CX-10"], "price_usd": 210, "stock": {"Pune": 1, "Dubai": 0, "Riyadh": 0, "Chennai": 2}}
+]
