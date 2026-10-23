@@ -1,9 +1,0 @@
-Work Order Number,Asset ID,Customer,City,Model,Symptom,Priority,Status,Assigned Technician,Parts Needed,Parts Cost USD,Created On
-WO-5001,AST-1002,Bluewater Mall,Dubai,HX-200,Filter change due,P3 - Normal,Completed,Sara Al Mansoori,,0,2026-10-01
-WO-5002,AST-2002,Northgate Data Hub,Riyadh,PG-50,Weekly test showed G14 low fuel pressure,P2 - High,In progress,Faisal Al Qahtani,PG-FLT-F,65,2026-10-08
-WO-5003,AST-3001,FreshBite Foods,Chennai,CX-10,"Door not sealing, temperature drifting up",P2 - High,Awaiting approval,,CX-GSK-D,120,2026-10-12
-WO-5004,AST-1001,Lakeside Medical Centre,Pune,HX-200,E04 compressor fails to start,P1 - Critical,Assigned,Arjun Mehta,HX-CAP-35,38,2026-10-14
-WO-5005,AST-2001,Lakeside Medical Centre,Pune,PG-50,Annual service,P3 - Normal,New,,,0,2026-10-15
-WO-5006,AST-1002,Bluewater Mall,Dubai,HX-200,E01 high pressure alarm twice this week,P2 - High,New,,HX-PS-HP,95,2026-10-16
-WO-5007,AST-3001,FreshBite Foods,Chennai,CX-10,Thermostat display blank,P2 - High,New,,CX-TH-02,210,2026-10-17
-WO-5008,AST-2002,Northgate Data Hub,Riyadh,PG-50,Output voltage unstable during test (G21),P1 - Critical,Awaiting approval,Faisal Al Qahtani,PG-AVR-3,610,2026-10-18

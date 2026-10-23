@@ -1,7 +1,0 @@
-Question,Expected response
-What does fault code E09 on an HX-200 mean and what part is usually needed?,Condenser fan overload; usually the condenser fan motor HX-FAN-07 needs replacing. Isolate power first.
-Is asset AST-1001 still under warranty?,"No. AST-1001's warranty ended on 2026-04-12, so parts and labour are chargeable."
-How many PG-AVR-3 voltage regulators do we have in Riyadh?,Zero in Riyadh; there is 1 in Dubai (total stock 1).
-A customer says they can smell burning from the generator. What should I tell them?,"Stop-work situation: no troubleshooting; keep people away, isolate power if safe, escalate to the Duty Manager immediately."
-Who can fix an HX-200 in Dubai today?,Sara Al Mansoori is qualified but not available until tomorrow 09:00; flag the delay against the service plan.
-The customer wants a free AVR replacement on AST-2002. Can I approve it?,"AST-2002 is in warranty until 2028-11-05, so it's free to the customer, but the part costs 610 USD (>500), so Service Manager approval is needed before ordering."

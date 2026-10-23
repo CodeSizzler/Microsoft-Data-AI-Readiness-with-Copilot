@@ -1,7 +1,0 @@
-[
-  {"asset_id": "AST-1001", "model": "HX-200", "type": "HVAC rooftop unit", "customer": "Lakeside Medical Centre", "site": "Building A roof, Pune", "installed": "2023-04-12", "warranty_until": "2026-04-12", "service_plan": "Gold (4-hour response)", "last_service": "2026-07-03"},
-  {"asset_id": "AST-1002", "model": "HX-200", "type": "HVAC rooftop unit", "customer": "Bluewater Mall", "site": "Roof zone 3, Dubai", "installed": "2025-01-20", "warranty_until": "2028-01-20", "service_plan": "Silver (next business day)", "last_service": "2026-05-14"},
-  {"asset_id": "AST-2001", "model": "PG-50", "type": "Standby diesel generator", "customer": "Lakeside Medical Centre", "site": "Basement plant room, Pune", "installed": "2022-09-01", "warranty_until": "2025-09-01", "service_plan": "Gold (4-hour response)", "last_service": "2026-08-22"},
-  {"asset_id": "AST-2002", "model": "PG-50", "type": "Standby diesel generator", "customer": "Northgate Data Hub", "site": "Yard 2, Riyadh", "installed": "2025-11-05", "warranty_until": "2028-11-05", "service_plan": "Platinum (2-hour response)", "last_service": "2026-09-30"},
-  {"asset_id": "AST-3001", "model": "CX-10", "type": "Walk-in cold room", "customer": "FreshBite Foods", "site": "Warehouse 1, Chennai", "installed": "2024-06-18", "warranty_until": "2026-06-18", "service_plan": "None (pay per visit)", "last_service": "2026-02-10"}
-]
